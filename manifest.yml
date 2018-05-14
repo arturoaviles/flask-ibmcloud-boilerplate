@@ -1,0 +1,5 @@
+---
+applications:
+ - name: flask-ibmcloud-boilerplate
+   random-route: true
+   memory: 128M
